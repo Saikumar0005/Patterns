@@ -17,7 +17,7 @@ class right{
 // * * * * 
 // * * * * * 
 
-class right{
+class rightinverted{
     public static void main(String[] args){
         int n=5;
         for(int i=n;i>=1;i--){
@@ -35,3 +35,4 @@ class right{
 // * * * 
 // * * 
 // * 
+
